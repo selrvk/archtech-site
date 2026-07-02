@@ -38,9 +38,9 @@ const services = [
 ];
 
 const socialLinks = [
-  { icon: GitHubIcon, label: "GitHub", href: "#" },
-  { icon: LinkedInIcon, label: "LinkedIn", href: "#" },
-  { icon: FacebookIcon, label: "Facebook", href: "#" },
+  //{ icon: GitHubIcon, label: "GitHub", href: "#" },
+  //{ icon: LinkedInIcon, label: "LinkedIn", href: "#" },
+  { icon: FacebookIcon, label: "Facebook", href: "https://www.facebook.com/ArchTechBTG" },
 ];
 
 export default function Contact() {
@@ -186,9 +186,9 @@ export default function Contact() {
           >
             <div className="rounded-xl border border-[#1a1a1a] bg-[#111] p-6 space-y-5">
               <a
-                href="mailto:charles@archtech.ph"
+                href="mailto:archtechbtg@gmail.com"
                 className="flex items-start gap-4 group"
-                aria-label="Email us at charles@archtech.ph"
+                aria-label="Email us at archtechbtg@gmail.com"
               >
                 <div className="p-2.5 rounded-lg bg-[#0A0A0A] border border-[#1a1a1a] group-hover:border-[#2B5078] transition-colors flex-shrink-0">
                   <Mail size={18} className="text-[#6B9BC7]" aria-hidden="true" />
@@ -196,7 +196,7 @@ export default function Contact() {
                 <div>
                   <p className="text-xs text-[#777777] mb-0.5">Email</p>
                   <p className="text-sm text-white group-hover:text-[#6B9BC7] transition-colors">
-                    charles.a7cantara@gmail.com
+                    archtechbtg@gmail.com
                   </p>
                 </div>
               </a>

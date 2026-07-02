@@ -33,9 +33,9 @@ const quickLinks = [
 ];
 
 const socialLinks = [
-  { icon: GitHubIcon, label: "GitHub", href: "#" },
-  { icon: LinkedInIcon, label: "LinkedIn", href: "#" },
-  { icon: FacebookIcon, label: "Facebook", href: "#" },
+  //{ icon: GitHubIcon, label: "GitHub", href: "#" },
+  //{ icon: LinkedInIcon, label: "LinkedIn", href: "#" },
+  { icon: FacebookIcon, label: "Facebook", href: "https://www.facebook.com/ArchTechBTG" },
 ];
 
 export default function Footer() {
@@ -91,7 +91,7 @@ export default function Footer() {
                 href="mailto:charles@archtech.ph"
                 className="hover:text-[#6B9BC7] transition-colors"
               >
-                charles.a7cantara@gmail.com
+                archtechbtg@gmail.com
               </a>
             </p>
             <p className="text-sm text-[#777777] mb-1">+63 939 354 7380</p>
