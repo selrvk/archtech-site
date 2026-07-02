@@ -24,7 +24,7 @@ const projects = [
     tech: "Next.js · TypeScript",
     gradient: "from-[#2B5078] to-[#1a2d40]",
     pattern: "grid",
-    live: "https://lifetap-site.vercel.app",
+    live: "https://selrvk.github.io/lifetap-site/",
     repo: "https://github.com/selrvk/lifetap-site",
   },
   {
@@ -64,7 +64,7 @@ const projects = [
     tech: "TypeScript · API",
     gradient: "from-[#1a3550] to-[#0d1f30]",
     pattern: "grid",
-    live: "https://weather-app-eight-roan-49.vercel.app",
+    live: "https://skies.selrvk.dev",
     repo: "https://github.com/selrvk/Weather-App",
   },
 ];
