@@ -8,7 +8,7 @@ type Category = "All" | "Web" | "Software" | "Networking" | "Security";
 
 const projects = [
   {
-    title: "Majestic Balinese",
+    title: "Resort Website",
     category: "Web" as Category,
     description: "Resort website for a property in Calatagan, Batangas — built with Next.js and TypeScript.",
     tech: "Next.js · TypeScript",
@@ -18,17 +18,17 @@ const projects = [
     repo: "https://github.com/selrvk/Majestic-Balinese",
   },
   {
-    title: "LifeTap Dashboard",
+    title: "LifeTap",
     category: "Web" as Category,
     description: "Health & lifestyle tracking dashboard — a Next.js frontend for the LifeTap app ecosystem.",
     tech: "Next.js · TypeScript",
     gradient: "from-[#2B5078] to-[#1a2d40]",
     pattern: "grid",
-    live: "https://lifetap-dashboard.vercel.app",
-    repo: "https://github.com/selrvk/lifetap-dashboard",
+    live: "https://lifetap-site.vercel.app",
+    repo: "https://github.com/selrvk/lifetap-site",
   },
   {
-    title: "FNV Inventory",
+    title: "Inventory Management System",
     category: "Software" as Category,
     description: "Inventory management system for tracking stock, assets, and supply levels in real time.",
     tech: "Next.js · TypeScript",
